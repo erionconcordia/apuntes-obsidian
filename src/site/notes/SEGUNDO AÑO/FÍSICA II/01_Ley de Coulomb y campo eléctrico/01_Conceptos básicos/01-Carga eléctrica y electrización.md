@@ -42,7 +42,7 @@ Si frotamos vigorosamente un material contra otro (ej. de cátedra: una lapicera
   <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; transition: background 0.3s;">
     <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Página anterior</p>
     <div style="margin-top: 8px; font-size: 1rem;">
-      ⬅️ [[SEGUNDO AÑO/FÍSICA II/FÍSICA II\|Tabla de contenidos]]
+      ⬅️ [[FÍSICA II \| Tabla de contenidos]]
     </div>
   </div>
 
@@ -50,7 +50,7 @@ Si frotamos vigorosamente un material contra otro (ej. de cátedra: una lapicera
   <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; transition: background 0.3s;">
     <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Página siguiente</p>
     <div style="margin-top: 8px; font-size: 1rem;">
-      [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/01_Conceptos básicos/02-Conductores y aisladores\|Conductores y aisladores]] ➡️
+      [[02-Conductores y aisladores \| Conductores y aisladores]] ➡️
     </div>
   </div>
 
