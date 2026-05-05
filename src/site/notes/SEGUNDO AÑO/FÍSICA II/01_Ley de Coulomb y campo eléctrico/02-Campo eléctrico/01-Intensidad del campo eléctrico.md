@@ -42,3 +42,25 @@ Condiciones estrictas para la definición del campo.
 **1. La carga de prueba debe ser infinitesimal ($q'\to0$):** Si queremos medir el campo eléctrico en el vacío cerca de un conductor esférico cargado positivamente, y acercamos una carga de prueba $q'$ muy grande, la repulsión entre las cargas deformará la distribución original en la esfera. Para que el campo medido sea realmente el original y no uno perturbado por nuestra propia medición, la teoría exige usar una carga de prueba infinitesimal.
 
 **2. Velocidad de propagación:** A diferencia de la gravedad que en la época de Newton se creía de propagación instantánea, los efectos electromagnéticos se propagan por el vacío a la velocidad de la luz ($3\cdot10^8m/s$). Si una carga se mueve de repente, el campo a 10 metros de distancia tardará un instante ínfimo en actualizarse.
+
+---
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; transition: background 0.3s;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Página anterior</p>
+    <div style="margin-top: 8px; font-size: 1rem;">
+      ⬅️ [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/01_Conceptos básicos/02-Conductores y aisladores\|02-Conductores y aisladores]]
+    </div>
+  </div>
+
+  <!-- BOTÓN DERECHO -->
+  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; transition: background 0.3s;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Siguiente página</p>
+    <div style="margin-top: 8px; font-size: 1rem;">
+      [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/02-Campo eléctrico/02-Líneas de fuerza\|02-Líneas de fuerza]] ➡️
+    </div>
+  </div>
+
+</div>
+

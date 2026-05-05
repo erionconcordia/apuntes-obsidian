@@ -52,3 +52,26 @@ Como el campo dentro de un conductor cerrado o hueco es nulo, cualquier disposit
 >- En un *conductor*, Lewis Hamilton (el electrón libre) ve la verde, acelera y tiene toda la pita para moverse a su antojo buscando su posición ideal.
 >- En un *aislador*, es como si el Alpine de Franco Colapinto estuviera amarrado con lingas en el box haciendo una prueba de motor. Al ver la verde, acelera y el auto se "estira" hacia adelante tensando las lingas (esto es la polarización y los dipolos inducidos), pero por más fuerza que haga el motor, el auto está ligado a su posición y no puede salir a la pista.
 
+---
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; transition: background 0.3s;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Página anterior</p>
+    <div style="margin-top: 8px; font-size: 1rem;">
+      ⬅️ [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/01_Conceptos básicos/01-Carga eléctrica y electrización\|01-Carga eléctrica y electrización]]
+    </div>
+  </div>
+
+  <!-- BOTÓN DERECHO -->
+  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; transition: background 0.3s;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Siguiente página</p>
+    <div style="margin-top: 8px; font-size: 1rem;">
+      [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/02-Campo eléctrico/01-Intensidad del campo eléctrico\|01-Intensidad del campo eléctrico]] ➡️
+    </div>
+  </div>
+
+</div>
+
+
+

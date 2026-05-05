@@ -71,6 +71,28 @@ Se comporta en el exterior como si toda su carga estuviera concentrada en un pun
 >- **Integración vs. Gauss:** Calcular el campo dividiéndolo en infinitos pedacitos $dq$ (integración) es como analiza la telemetría de Colapinto micro-sector por micro-sector sumando las frenadas de cada metro de pista. Usar el Teorema de Gauss es como mirar directamente el tiempo de vuelta final del cronómetro: si la pista es perfectamente simétrica (como un óvalo), te dice exactamente el rendimiento del auto sin tener que calcular punto por punto.
 >- **El Dipolo y el $1/r^3$:** Imaginemos dos monoplazas luchando rueda a rueda (un dipolo). Uno genera turbulencia que empuja el aire hacia afuera ($+q$) y el otro deja succión o "rebufo" que atrae el aire hacia adentro ($-q$). Vistos desde muy lejos, los efectos aerodinámicos de ambos chocan y se cancelan casi por completo mutuamente, por eso la perturbación (el campo del dipolo) "muere" rapidísimo en la distancia ($1/r^3$), mucho más rápido que si hubiera un solo auto en pista.
 
+---
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; transition: background 0.3s;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Página anterior</p>
+    <div style="margin-top: 8px; font-size: 1rem;">
+      ⬅️ [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/02-Campo eléctrico/02-Líneas de fuerza\|02-Líneas de fuerza]]
+    </div>
+  </div>
+
+  <!-- BOTÓN DERECHO -->
+  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; transition: background 0.3s;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Siguiente página</p>
+    <div style="margin-top: 8px; font-size: 1rem;">
+      [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/02-Campo eléctrico/04-Campo dentro de un conductor\|04-Campo dentro de un conductor]] ➡️
+    </div>
+  </div>
+
+</div>
+
+
 
 
 

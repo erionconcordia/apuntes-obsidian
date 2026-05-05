@@ -28,7 +28,6 @@ Si frotamos vigorosamente un material contra otro (ej. de cátedra: una lapicera
 
 ![Pasted image 20260501194258.png](/img/user/IM%C3%81GENES/Pasted%20image%2020260501194258.png)
 
-
 >[!warning] Principio de conservación de la carga
 >En el proceso de electrización no hay creación de carga eléctrica. Las medidas precisas demuestran que la carga que adquiere la lapicera es exactamente igual y opuesta a la que adquiere la lana. Simplemente hay una transmisión y redistribución de electrones de un cuerpo al otro.
 
@@ -40,17 +39,17 @@ Si frotamos vigorosamente un material contra otro (ej. de cátedra: una lapicera
 
   <!-- BOTÓN IZQUIERDO -->
   <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; transition: background 0.3s;">
-    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Página anterior</p>
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Tabla de contenidos</p>
     <div style="margin-top: 8px; font-size: 1rem;">
-      ⬅️ [[FÍSICA II \| Tabla de contenidos]]
+      ⬅️ [[SEGUNDO AÑO/FÍSICA II/FÍSICA II\|FÍSICA II]]
     </div>
   </div>
 
   <!-- BOTÓN DERECHO -->
   <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; transition: background 0.3s;">
-    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Página siguiente</p>
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Siguiente página</p>
     <div style="margin-top: 8px; font-size: 1rem;">
-      [[02-Conductores y aisladores \| Conductores y aisladores]] ➡️
+      [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/01_Conceptos básicos/02-Conductores y aisladores\|02-Conductores y aisladores]] ➡️
     </div>
   </div>
 
