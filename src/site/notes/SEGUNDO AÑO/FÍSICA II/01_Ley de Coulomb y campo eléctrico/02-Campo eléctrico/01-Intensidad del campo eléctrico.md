@@ -43,3 +43,7 @@ Condiciones estrictas para la definición del campo.
 
 **2. Velocidad de propagación:** A diferencia de la gravedad que en la época de Newton se creía de propagación instantánea, los efectos electromagnéticos se propagan por el vacío a la velocidad de la luz ($3\cdot10^8m/s$). Si una carga se mueve de repente, el campo a 10 metros de distancia tardará un instante ínfimo en actualizarse.
 
+```booknav
+  [[02-Conductores y aisladores | Anterior]]
+  [[01-Intensidad del campo eléctrico| Siguiente]]
+```
