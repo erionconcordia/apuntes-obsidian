@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primer-ano/fisica-i/01-estatica/01-conceptos/03-rozamiento/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/primer-ano/fisica-i/01-estatica/01-conceptos/03-rozamiento/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Cuando **dos superficies se tocan** y se quiere mover una contra la otra, aparece una **fuerza que se opone al movimiento**. Esa fuerza se llama **rozamiento**, y es la que intenta frenar o evitar que algo se deslice. Pero si se aplica una **fuerza más grande** que la de roce, el objeto se termina moviendo igual.

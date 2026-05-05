@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primer-ano/fisica-i/01-estatica/01-conceptos/02-fuerzas/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/primer-ano/fisica-i/01-estatica/01-conceptos/02-fuerzas/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Es una magnitud que mide la interacción que existe entre dos o más cuerpos. Toda fuerza modifica el estado de reposo o movimiento de un cuerpo, además de generar **deformaciones**, por mínima que sea, en dicho cuerpo.

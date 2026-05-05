@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primer-ano/fisica-i/fisica-i/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/primer-ano/fisica-i/fisica-i/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 - UNIDAD 1: [[PRIMER AÑO/FÍSICA I/01_Estática/01_Estática\|01_Estática]]
