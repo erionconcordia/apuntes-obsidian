@@ -34,3 +34,17 @@ Si frotamos vigorosamente un material contra otro (ej. de cátedra: una lapicera
 
 >[!example] Ejemplo: Electrización por contacto y conservación de carga
 >Imaginemos a Franco Colapinto bloqueando agresivamente sus neumáticos en una frenada fuerte antes de una curva. Al hacerlo, deja una gruesa marca negra en el asfalto. Colapinto *no creó* caucho por arte de magia; simplemente hubo una transferencia de material desde su neumático hacia la pista. Lo que perdió el neumático, lo ganó el asfalto. ¡Así exactamente actúan los electrones al frotar dos materiales!
+
+<br>
+<hr>
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
+    <div style="flex: 1; text-align: left; padding: 15px; border-radius: 10px; background-color: #1e1e1e; border: 1px solid #333;">
+        <small style="color: #888;">Página anterior</small><br>
+        <a href="[[SEGUNDO AÑO/FÍSICA II/FÍSICA II\|FÍSICA II]]" style="text-decoration: none; font-weight: bold; color: #9d7cd8;">⬅️ Anterior</a>
+    </div>
+    
+    <div style="flex: 1; text-align: right; padding: 15px; border-radius: 10px; background-color: #1e1e1e; border: 1px solid #333;">
+        <small style="color: #888;">Página siguiente</small><br>
+        <a href="[[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/01_Conceptos básicos/02-Conductores y aisladores\|02-Conductores y aisladores]]" style="text-decoration: none; font-weight: bold; color: #9d7cd8;">Siguiente ➡️</a>
+    </div>
+</div>
