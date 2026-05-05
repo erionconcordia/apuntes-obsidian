@@ -42,8 +42,3 @@ Condiciones estrictas para la definición del campo.
 **1. La carga de prueba debe ser infinitesimal ($q'\to0$):** Si queremos medir el campo eléctrico en el vacío cerca de un conductor esférico cargado positivamente, y acercamos una carga de prueba $q'$ muy grande, la repulsión entre las cargas deformará la distribución original en la esfera. Para que el campo medido sea realmente el original y no uno perturbado por nuestra propia medición, la teoría exige usar una carga de prueba infinitesimal.
 
 **2. Velocidad de propagación:** A diferencia de la gravedad que en la época de Newton se creía de propagación instantánea, los efectos electromagnéticos se propagan por el vacío a la velocidad de la luz ($3\cdot10^8m/s$). Si una carga se mueve de repente, el campo a 10 metros de distancia tardará un instante ínfimo en actualizarse.
-
-```booknav
-  [[02-Conductores y aisladores | Anterior]]
-  [[01-Intensidad del campo eléctrico| Siguiente]]
-```
