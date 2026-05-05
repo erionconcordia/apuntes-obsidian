@@ -35,25 +35,18 @@ Si frotamos vigorosamente un material contra otro (ej. de cátedra: una lapicera
 >Imaginemos a Franco Colapinto bloqueando agresivamente sus neumáticos en una frenada fuerte antes de una curva. Al hacerlo, deja una gruesa marca negra en el asfalto. Colapinto *no creó* caucho por arte de magia; simplemente hubo una transferencia de material desde su neumático hacia la pista. Lo que perdió el neumático, lo ganó el asfalto. ¡Así exactamente actúan los electrones al frotar dos materiales!
 
 ---
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: sans-serif;">
 
   <!-- BOTÓN IZQUIERDO -->
-  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; transition: background 0.3s;">
-    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Tabla de contenidos</p>
-    <div style="margin-top: 8px; font-size: 1rem;">
-      ⬅️ [[SEGUNDO AÑO/FÍSICA II/FÍSICA II\|FÍSICA II]]
-    </div>
-  </div>
+  <a href="segundo-ano/fisica-ii/fisica-ii" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">Página anterior</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">⬅️ Tabla de contenidos</div>
+  </a>
 
   <!-- BOTÓN DERECHO -->
-  <div style="background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; transition: background 0.3s;">
-    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Siguiente página</p>
-    <div style="margin-top: 8px; font-size: 1rem;">
-      [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/01_Conceptos básicos/02-Conductores y aisladores\|02-Conductores y aisladores]] ➡️
-    </div>
-  </div>
+  <a href="segundo-ano/fisica-ii/01-ley-de-coulomb-y-campo-electrico/01-conceptos-basicos/02-conductores-y-aisladores" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">Siguiente página</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">Conductores y aisladores ➡️</div>
+  </a>
 
 </div>
-
-
-
