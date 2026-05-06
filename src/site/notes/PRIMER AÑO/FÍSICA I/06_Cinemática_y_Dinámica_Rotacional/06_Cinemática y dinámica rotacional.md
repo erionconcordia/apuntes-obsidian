@@ -2,6 +2,23 @@
 {"dg-publish":true,"permalink":"/primer-ano/fisica-i/06-cinematica-y-dinamica-rotacional/06-cinematica-y-dinamica-rotacional/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <a href="/primer-ano/fisica-i/04-trabajo-y-energia/04-trabajo-y-energia" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">UNIDAD 5</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;"> ⬅️ Trabajo y energía</div>
+  </a>
+
+  <!-- BOTÓN DERECHO -->
+  <a href="/primer-ano/fisica-i/07-estatica-y-dinamica-de-fluidos" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">UNIDAD 7</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">Estática y dinámica de fluidos ➡️</div>
+  </a>
+</div>
+
+---
+
 ### Plan académico
 El movimiento rotacional. Variables en la cinemática rotacional. Rotaciones con aceleración angular constante. Las cantidades rotacionales como vectores. Relaciones entre cinemática lineal y angular para una partícula en movimiento circular. Forma escalar y vectorial. Torca sobre una partícula. Momento cinético de una partícula. Sistemas de partículas. La energía cinética de la rotación y la inercia rotacional. Dinámica rotacional de un cuerpo rígido. Aplicaciones. El momento angular y la velocidad angular. La conservación del momento angular.
 

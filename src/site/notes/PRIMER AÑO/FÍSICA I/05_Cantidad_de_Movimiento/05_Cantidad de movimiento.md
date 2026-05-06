@@ -2,6 +2,23 @@
 {"dg-publish":true,"permalink":"/primer-ano/fisica-i/05-cantidad-de-movimiento/05-cantidad-de-movimiento/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <a href="/primer-ano/fisica-i/04-trabajo-y-energia/04-trabajo-y-energia" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">UNIDAD 4</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;"> ⬅️ Trabajo y energía</div>
+  </a>
+
+  <!-- BOTÓN DERECHO -->
+  <a href="/primer-ano/fisica-i/06-cinematica-y-dinamica-rotacional/06-cinematica-y-dinamica-rotacional" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">UNIDAD 6</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">Cinemática y dinámica rotacional ➡️</div>
+  </a>
+</div>
+
+---
+
 #### Plan académico
 La cantidad de movimiento de una partícula. Segunda Ley de Newton. Cantidad de movimiento de un sistema de partículas. Conservación de la cantidad de movimiento. Algunas aplicaciones del Principio de Conservación de la Cantidad de Movimiento. El impulso y la cantidad de movimiento. La conservación de la cantidad de movimiento durante las colisiones. Choque elástico e inelástico. Las colisiones en una dimensión. Aplicaciones. Las colisiones en dos y tres dimensiones.
 

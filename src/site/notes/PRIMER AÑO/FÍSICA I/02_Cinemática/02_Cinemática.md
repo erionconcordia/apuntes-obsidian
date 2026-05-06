@@ -2,6 +2,23 @@
 {"dg-publish":true,"permalink":"/primer-ano/fisica-i/02-cinematica/02-cinematica/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <a href="/primer-ano/fisica-i/01-estatica/01-estatica/" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">UNIDAD 1</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;"> ⬅️ Estática</div>
+  </a>
+
+  <!-- BOTÓN DERECHO -->
+  <a href="/primer-ano/fisica-i/03-dinamica/03-dinamica" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">UNIDAD 3</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">Dinámica ➡️</div>
+  </a>
+</div>
+
+---
+
 "Es una parte de la mecánica que se encarga de estudiar única y exclusivamente el movimiento de los cuerpos sin considerar las causas que lo originan."
 
 #### Plan académico
