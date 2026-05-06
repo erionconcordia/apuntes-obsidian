@@ -19,6 +19,7 @@ Cargas inducidas. Susceptibilidad. Coeficiente dieléctrico. Capacidad específi
 - [[SEGUNDO AÑO/FÍSICA II/04_Dieléctricos, capacidad, capacitores/02_Capacidad y capacitores/03-Condensador cilíndrico\|03-Condensador cilíndrico]]
 - [[SEGUNDO AÑO/FÍSICA II/04_Dieléctricos, capacidad, capacitores/02_Capacidad y capacitores/04-Condensador esférico\|04-Condensador esférico]]
 - [[SEGUNDO AÑO/FÍSICA II/04_Dieléctricos, capacidad, capacitores/02_Capacidad y capacitores/05-Conexiones de capacitores\|05-Conexiones de capacitores]]
+- [[SEGUNDO AÑO/FÍSICA II/04_Dieléctricos, capacidad, capacitores/02_Capacidad y capacitores/06-Funciones de un dieléctrico en un capacitor\|06-Funciones de un dieléctrico en un capacitor]]
 
 #### Energía y transitorios
 - [[SEGUNDO AÑO/FÍSICA II/04_Dieléctricos, capacidad, capacitores/03_Energía y transitorios/01-Energía del condensador\|01-Energía del condensador]]
