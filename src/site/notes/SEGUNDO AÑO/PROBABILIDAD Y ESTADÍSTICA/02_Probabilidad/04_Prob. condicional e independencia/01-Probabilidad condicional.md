@@ -35,7 +35,7 @@ $$(A_1\cup A_2)\cap B=(A_1\cap B)\cup(A_2\cap B)$$
 Entonces:
 $$P(A_1\cup A_2/B)=\frac{P((A_1\cap B)\cup(A_2\cap B))}{P(B)}$$
 Sabemos desde el principio que $A_1$ y $A_2$ son mutuamente excluyentes (no se tocan). Por puro sentido común, si $A_1$ y $A_2$ no tienen nada en común, entonces el pedacito de $A_1$ que toca $B$ y el pedacito de $A_2$ que toca a $B$, tampoco pueden tener nada en común, entonces:
-$$(A_1\cap B)\cup(A_2\cap B)=\emptyset \ \ \ \ \to \ \ \ \ \text{(Son mutuamente excluyentes)}$$
+$$(A_1\cap B)\cap(A_2\cap B)=\emptyset \ \ \ \ \to \ \ \ \ \text{(Son mutuamente excluyentes)}$$
 Uso el tercer axioma en el numerador de la fracción:
 $$P((A_1\cap B)\cup(A_2\cap B))=P(A_1\cap B)+P(A_2\cap B)$$
 Sustituimos el numerador por esta nueva suma:
