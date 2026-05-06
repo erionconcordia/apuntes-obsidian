@@ -12,7 +12,7 @@ Donde $\sigma$ es la densidad de carga libre (la de las láminas metálicas) y $
 ---
 ## 2. Susceptibilidad ($\eta$)
 Puesto que las cargas inducidas son causadas por el propio campo, definimos la *susceptibilidad dieléctrica* ($\eta$) como la razón entre la densidad de carga inducida y la intensidad del campo resultante:
-$$\eta=\frac{\sigma_i}{E}$$
+<center>$$\eta=\frac{\sigma_i}{E}$$</center>
 Es una magnitud adimensional que indica qué tan fácil se polariza un material dieléctrico en respuesta a un campo eléctrico externo. Cuanto mayor es la susceptibilidad, más fácil se polariza el material. En el vacío, como no hay moléculas que polarizar, la susceptibilidad es nula ($\eta=0$).
 
 >[!example] Ejemplo de Susceptibilidad
