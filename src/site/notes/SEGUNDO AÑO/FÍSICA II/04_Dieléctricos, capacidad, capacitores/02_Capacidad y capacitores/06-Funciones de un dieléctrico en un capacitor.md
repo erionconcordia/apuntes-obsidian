@@ -28,6 +28,24 @@ Todo aislante tiene un límite llamado rigidez dieléctrica (el campo eléctrico
 
 ---
 ## 3. Aumento de la capacitancia ($C$)
-La capacidad de almacenar carga se incrementa en un factor $K_e$ (constante dieléctrica) respecto al vacío:
+El objetivo principal de un dieléctrico es permitir que el capacitor almacene más carga ($Q$) para una misma diferencia de potencial ($V$). Esto sucede por una reacción en cadena:
+
+#### A. Polarización
+Cuando metemos el aislante entre las placas, los electrones de sus átomos (que están "atados" y no son libres) se estiran hacia la placa positiva.
+
+- **Imagen mental:** El átomo se deforma como un óvalo. Esto crea una capa de cargas inducidas en las superficies del dieléctrico.
+- Estas cargas generan un campo eléctrico inducido ($E_{ind}$) que apunta en dirección al campo de las palcas ($E_0$).
+#### B. Debilitamiento del campo
+Como los dos campos se oponen, el campo total o campo neto ($E_{neto}$) dentro del material se reduce a:
+$$E_{neto}=E_0-E_{ind}$$
+#### C. Relación voltaje-capacidad
+Si el campo eléctrico disminuye,, el voltaje entre las placas también baja:
+$$V=E\cdot d$$
+Al bajar el voltaje ($V$) en la fórmula de capacitancia:
+$$C=\frac{Q}{V}$$
+El resultado final aumenta. Este aumento se resume con la constante dieléctrica ($K_e$):
 $$C=K_e\cdot C_0$$
-Al colocar el dieléctrico, sus moléculas se reorientan o se deforman (polarización), creando capaz de cargas inducidas (o cargas ligadas) en sus superficies. Estas cargas inducidas crean un campo eléctrico opuesto al original, lo que reduce el campo neto y la diferencia de potencial entre las placas. Al bajar el voltaje para una misma carga, la capacitancia aumenta.
+*Donde:*
+- $C$ es la capacitancia final (con el material dieléctrico presente entre las placas).
+- $C_0$ es la capacitancia inicial (cuando hay vacío o aire entre las placas).
+- $K_e$ es la constante dieléctrica del material (número adimensional que siempre es mayor a 1).
