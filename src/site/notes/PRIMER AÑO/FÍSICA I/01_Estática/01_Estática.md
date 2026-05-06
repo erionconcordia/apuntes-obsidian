@@ -2,6 +2,23 @@
 {"dg-publish":true,"permalink":"/primer-ano/fisica-i/01-estatica/01-estatica/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <a href="/primer-ano/fisica-i/01-estatica/01-estatica/" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">ESTÁS EN UNIDAD 1</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">⬅️ Estática</div>
+  </a>
+
+  <!-- BOTÓN DERECHO -->
+  <a href="/primer-ano/fisica-i/02-cinematica/02-cinematica/" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">UNIDAD 2</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">Cinemática ➡️</div>
+  </a>
+</div>
+
+---
+
 "La estática es una rama de la mecánica cuyo objetivo es estudiar las condiciones que deben de cumplir las fuerzas que actúan sobre un cuerpo, para que este se encuentre en equilibrio."
 
 #### Plan académico

@@ -14,3 +14,20 @@ El valor del coeficiente de rozamiento depende del tipo de materiales de las sup
 ## 4°
 El coeficiente de rozamiento cinético ($\mu_k$) siempre es menor que el estático ($\mu_s$)
 $$0 \le \mu_k \le \mu_s \le 1$$
+
+---
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-family: sans-serif;">
+
+  <!-- BOTÓN IZQUIERDO -->
+  <a href="/primer-ano/fisica-i/01-estatica/01-conceptos/06-inercia/" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">Página anterior</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">⬅️ Inercia</div>
+  </a>
+
+  <!-- BOTÓN DERECHO -->
+  <a href="/primer-ano/fisica-i/01-estatica/01-leyes-y-condiciones/02-1ra-ley-de-newton/" style="text-decoration: none; background-color: #1e2030; border: 1px solid #3b4261; padding: 15px; border-radius: 8px; text-align: right; display: block;">
+    <p style="margin: 0; color: #7a88cf; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;">Siguiente página</p>
+    <div style="margin-top: 8px; font-size: 1rem; color: #ffffff;">1° Ley de Newton ➡️</div>
+  </a>
+
+</div>

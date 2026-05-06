@@ -15,3 +15,5 @@ Vimos en [[SEGUNDO AÑO/FÍSICA II/01_Ley de Coulomb y campo eléctrico/01_Conce
 La rigidez dieléctrica del aire nos explica por qué un conductor geométrico finito no puede almacenar carga infinita. Si tenemos una esfera de metal rodeada de aire y le agregamos carga, el campo eléctrico en su superficie ($E=\frac{1}{4\pi\epsilon_0}\frac{q}{r^2}$) aumentará. Si el campo en la superficie de la esfera alcanza los $3\cdot 10^6N/C$, el aire que la rodea se ionizará, se volverá conductor y la esfera se descargará emitiendo chispas.
 
 Por ejemplo, una pequeña esfera de $1$ cm de radio en el aire solo puede almacenar una carga máxima de $3.3\cdot10^{-8} \ C$ antes de romper el dieléctrico que la rodea. Por esta razón los generadores de alto voltaje (como el de Van de Graff) necesitan tener domos esféricos gigantescos. A mayor radio, el campo eléctrico en la superficie es menor para una misma carga, alejando el riesgo de ruptura dieléctrica.
+
+---
