@@ -44,6 +44,8 @@ Entonces, terminamos por demostrar que:
 $$P(A_1\cup A_2/B)=P(A_1/B)+P(A_2/B)$$
 Se cumple el axioma 3.
 
+>[!done] Demostrado
+
 ---
 ## 2. Interpretación visual: El espacio muestral reducido
 Físicamente, ¿qué estamos haciendo al dividir entre $P(B)$? Al saber con certeza que el evento $B$ ha ocurrido, nuestro espacio muestral $\ohm$ ya no nos sirve. El espacio muestral se reduce netamente al conjunto $B$.

@@ -40,3 +40,17 @@ $$P(D)=(0.5\cdot 0.05)+(0.25\cdot0.1)+(0.25\cdot0.12)$$
 $$
 P(D)=0.025+0.025+0.030=0.08\to (8\%)
 $$
+#### Demostración
+Supongamos una partición $\{ B_1,B_2,B_3,...,B_n \}$ del espacio muestral $\ohm$ y un evento $A\subset\ohm$, tal como en la figura:
+![Pasted image 20260507134754.png](/img/user/Pasted%20image%2020260507134754.png)
+
+El evento $A$ estará definido por:
+$$A=A\cap B_1+A\cap B_2+A\cap B_3+...+A\cap B_n$$
+Si le aplicamos la función probabilidad a ambos miembros:
+$$P(A)=P(A\cap B_1)+P(A\cap B_2)+P(A\cap B_3)+...+P(A\cap B_n)$$
+Ahora, si recordamos la definición de probabilidad condicional, tenemos que:
+$$P(X/Y)=\frac{P(X\cap Y)}{P(Y)} \ \ \ \ \to \ \ \ \ P(X\cap Y)=P(Y)\cdot P(X/Y)$$
+Por ende, si reemplazamos esta última expresión en cada probabilidad de la intersección, conseguimos demostrar:
+$$P(A)=P(B_1)\cdot P(A/B_1)+P(B_2)\cdot P(A/B_2)+...+P(B_n)\cdot P(A/B_n)$$
+>[!success] Demostrado
+

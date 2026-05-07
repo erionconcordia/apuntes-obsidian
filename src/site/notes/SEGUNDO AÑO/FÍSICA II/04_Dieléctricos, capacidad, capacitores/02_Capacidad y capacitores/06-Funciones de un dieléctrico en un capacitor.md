@@ -39,7 +39,7 @@ Cuando metemos el aislante entre las placas, los electrones de sus átomos (que 
 Como los dos campos se oponen, el campo total o campo neto ($E_{neto}$) dentro del material se reduce a:
 $$E_{neto}=E_0-E_{ind}$$
 #### C. Relación voltaje-capacidad
-Si el campo eléctrico disminuye,, el voltaje entre las placas también baja:
+Si el campo eléctrico disminuye, el voltaje entre las placas también baja:
 $$V=E\cdot d$$
 Al bajar el voltaje ($V$) en la fórmula de capacitancia:
 $$C=\frac{Q}{V}$$

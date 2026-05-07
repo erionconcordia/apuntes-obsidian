@@ -38,7 +38,7 @@ En estadística bayesiana, la probabilidad el escenario $B_j$ antes de hacer el 
 $$
 P(B/D)=\frac{0.025}{0.08}=0.3125
 $$
-1. ¿Y que no haya sido comprado por A?
+2. ¿Y que no haya sido comprado por A?
 $$P(A^c/D)=1-P(A/D)$$
 $$
 P(A/D)=\frac{P(A)\cdot P(D/A)}{P(D)}=\frac{0.50\cdot 0.05}{0.08}=\frac{0.025}{0.08}=0.3125
@@ -51,6 +51,5 @@ $$
 >Al leer un ejercicio, la clave para saber qué teorema usar es identificar qué información nos dan como "hecho" o "condición":
 >- Si nos piden la probabilidad del evento final (ej. "¿Cuál es la probabilidad de que una pieza seleccionada esté rota?) $\to$ **Probabilidad Total**
 >- Si nos dicen que el evento final ya se comprobó y nos preguntan de dónde provino (ej. "Se extrae una pieza, se constata que está rota... ¿Qué probabilidad hay de que sea de la máquina 2?") $\to$ **Teorema de Bayes**.
-
 
 
