@@ -11,8 +11,8 @@ $$\sigma^2=\frac{\sum_{i=1}^N(x_i-\mu)^2}{N}$$
 Evalúa la variabilidad de la muestra promediando las desviaciones al cuadrado de cada dato respecto a la media muestral:
 $$s^2=\frac{\sum_{i=1}^n(x_i-\bar{x})^2}{n-1} \ \ \ \ \ \text{(datos no agrupados)}$$
 $$s^2=\sum_{i=1}^{mca}f_{ri}(mca_i-\bar{x})^2 \ \ \ \ \ \text{(datos agrupado)}$$
->[!question]
->¿Por qué dividimos entre $n-1$ y no entre $n$ en la varianza muestral? Las observaciones de una muestra tienden a estar más cerca de su propia media muestral ($\bar{x}$) de lo que están de la verdadera media poblacional ($\mu$). Si dividiéramos entre $n$ estaríamos subestimando la verdadera variabilidad de la población (obtendríamos valores demasiado pequeños en promedio). Dividir entre $n-1$ (conocido como grados de libertad) corrige este sesgo, haciendo que $s^2$ sea un estimador "insesgado" de $\sigma^2$.
+>[!question] ¿Por qué dividimos entre $n-1$ y no entre $n$ en la varianza muestral?
+>Las observaciones de una muestra tienden a estar más cerca de su propia media muestral ($\bar{x}$) de lo que están de la verdadera media poblacional ($\mu$). Si dividiéramos entre $n$ estaríamos subestimando la verdadera variabilidad de la población (obtendríamos valores demasiado pequeños en promedio). Dividir entre $n-1$ (conocido como grados de libertad) corrige este sesgo, haciendo que $s^2$ sea un estimador "insesgado" de $\sigma^2$.
 
 ## 3. Desviación estándar muestral ($s$)
 Es simplemente la raíz cuadrada positiva de la varianza muestral:

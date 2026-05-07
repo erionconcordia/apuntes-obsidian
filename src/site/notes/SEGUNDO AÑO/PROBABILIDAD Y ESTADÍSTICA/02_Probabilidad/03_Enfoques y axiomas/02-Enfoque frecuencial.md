@@ -18,6 +18,8 @@ Para que este enfoque sea válido, un experimento debe cumplir con dos condicion
 Si definimos la frecuencia relativa $f_{ra}$ de un evento $A$ como el cociente entre l número de veces que ocurrió el evento $n_A$ y el número total de ensayos $n$:
 $$f_{ra}=\frac{n_A}{n}$$
 La **Ley de los Grandes Números (LGN)** demuestra que, aunque para valores pequeños de $n$ la frecuencia relativa $f_{ra}$ fluctúa de manera impredecible debido al azar, a medida que $n$ crece y tiende al infinito, la frecuencia relativa deja de fluctuar y converge hacia una constante fija.
+
+---
 # 2. La fórmula frecuencial
 La interpretación objetiva de la probabilidad identifica una constante de estabilización matemática directamente con la probabilidad del evento A.
 
