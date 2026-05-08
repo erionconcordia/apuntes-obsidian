@@ -41,7 +41,7 @@ En física, no podemos elevar un número a la "5 segundos" ($e^{5s}$), eso no ti
 
 **C) El valor de referencia universal**
 $\tau$ sirve como una "regla de medir" universal para cualquier circuito RC:
-- En $1\tau$, la corriente siempre habrá caído al 36.9% de su valor inicial.
+- En $1\tau$, la corriente siempre habrá caído al 36.9% de su valor inicial y la tensión habrá aumentado hasta el 63.2% de su valor final.
 - En $1\tau$, al capacitor siempre le faltará exactamente un 36.9% para terminar de cargarse.
 - Se considera que un capacitor está totalmente cargado (o descargado) cuando han pasado $5\tau$. En ese punto, el proceso ha llegado al 99.3%, lo cual es suficiente para cualquier ingeniero.
 
