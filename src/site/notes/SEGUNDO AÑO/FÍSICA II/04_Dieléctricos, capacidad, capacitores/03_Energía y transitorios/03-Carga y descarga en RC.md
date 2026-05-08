@@ -43,6 +43,7 @@ En física, no podemos elevar un número a la "5 segundos" ($e^{5s}$), eso no ti
 $\tau$ sirve como una "regla de medir" universal para cualquier circuito RC:
 - En $1\tau$, la corriente siempre habrá caído al 36.9% de su valor inicial.
 - En $1\tau$, al capacitor siempre le faltará exactamente un 36.9% para terminar de cargarse.
+- Se considera que un capacitor está totalmente cargado (o descargado) cuando han pasado $5\tau$. En ese punto, el proceso ha llegado al 99.3%, lo cual es suficiente para cualquier ingeniero.
 
 **D) ¿Por qué no usar simplemente un valor "t" de tiempo?**
 Porque el valor "$t$" es solo una medida externa. En cambio, $\tau$ nos habla de la calidad y el diseño del circuito: nos dice si el sistema fue construido para liberar su energía de forma explosiva ($\tau$ pequeña, poca resistencia) o de forma lenta y controlada ($\tau$ grande, mucha resistencia).
